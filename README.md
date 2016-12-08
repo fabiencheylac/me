@@ -9,7 +9,7 @@ French since 1992, web developer since 2011. I carry out studies of computer eng
 - Redesign UI of a webcam show website
 - Add new features
   - Edit profile (i18n)
-  - Edit price, mutli currency
+  - Edit price, multi currency
   - Add statistic charts
 
 ↪ HTML5, CSS, SASS, Foundation, JS, Jquery, Ajax, Typescript, PHP, TWIG, GIT, MVC
