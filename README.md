@@ -17,8 +17,8 @@ French since 1992, web developer since 2011. I carry out studies of computer eng
 
 ### 2015-2016
 **Project manager** on start-ups during schoolship at Ynov Aix (8 months)
-- Kolp (mobile application gestion playlist à plusieurs)
-- PiScreen (Interface Web de gestion d’affichage)
+- Kolp (mobile application, multi-user playlist management)
+- PiScreen (web, display management)
 
 
 ### 2014-2015
